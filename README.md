@@ -13,3 +13,5 @@ Bus Booking System For Sitheek Travels
 <img width="947" alt="busaboutus1" src="https://github.com/user-attachments/assets/fbc6c112-e3ab-42fa-a5cd-1b3695baf244" />
 <img width="955" alt="buscontactus" src="https://github.com/user-attachments/assets/8fe9e193-c6eb-4f17-8060-06fc170539f1" />
 <img width="949" alt="services" src="https://github.com/user-attachments/assets/61633d33-1041-4022-b9fc-4c8068140744" />
+<img width="949" alt="payments" src="https://github.com/user-attachments/assets/d41fe868-816d-44b6-a096-e72287763a76" />
+<img width="869" alt="card" src="https://github.com/user-attachments/assets/93bc577a-306f-45c7-82d9-7a8c39c14721" />
